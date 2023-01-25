@@ -1,0 +1,27 @@
+body {
+	background-image: url("background.jpg");
+}
+
+h1 {
+  color: Red;
+  margin-left: 10%;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  
+}
+.formularz{
+	background-color:#F0FFFF;
+	color: navy;
+	margin-left:30%;
+	margin-right:30%;
+	font-size:20px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: left;
+}
+.guzik{
+	margin-left:25%;
+	color:red;
+	font-size: 24px;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
