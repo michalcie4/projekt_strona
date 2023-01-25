@@ -1,4 +1,4 @@
-import * as docx from "docx";
+import * as docx from "../docx";
 function generate(){
     var nazwa_pliku = document.getElementById("nazwa").value;
     var tytul = document.getElementById("naglowek").value;
